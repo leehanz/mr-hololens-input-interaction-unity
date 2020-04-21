@@ -1,8 +1,8 @@
 # mr-hololens-input-interaction-unity
 
-integrate input simulation service (hand) and mouse pointer in <a href="https://github.com/Microsoft/MixedRealityToolkit-Unity/releases">MRTKv2 RC1 (HoloLens2) </a>
+integrate with input simulation service (hand) and mouse pointer in <a href="https://github.com/Microsoft/MixedRealityToolkit-Unity/releases">MRTKv2 RC1 (HoloLens2) </a>
 
-please contact me for further needs. (henry8209@gmail.com)
+please contact me for further needs. (li.szu.hanz@gmail.com)
 
 # Demo Video
 
